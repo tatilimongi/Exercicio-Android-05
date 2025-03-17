@@ -47,19 +47,23 @@ Responsável por gerenciar os investimentos, incluindo adição, cálculo de ret
 
 --LISTA DE INVESTIMENTOS:
 
-Renda Fixa: CDB Banco X | Investido: R$5000,00 | Retorno: R$250,00
 
-Renda Fixa: Tesouro Direto | Investido: R$3000,00 | Retorno: R$90,00 (Precisa de Revisão)
-
-Renda Variável: Ações TechCorp | Investido: R$7000,00 | Retorno: R$480,20
-
-Renda Variável: Criptomoeda XYZ | Investido: R$2000,00 | Retorno: R$184,00
+| Investment Type    | Description               | Invested Amount | Return   | Review Status        |
+|--------------------|---------------------------|-----------------|----------|----------------------|
+| Fixed Income       | CDB Banco X               | R$5000.00       | R$250.00 |                      |
+| Fixed Income       | Tesouro Direto            | R$3000.00       | R$90.00  | Needs Review         |
+| Variable Income    | Ações TechCorp            | R$7000.00       | R$480.20 |                      |
+| Variable Income    | Criptomoeda XYZ           | R$2000.00       | R$184.00 | Needs Review         |
 
 --Retorno Total: R$1004,20
 
 --Investimentos que precisam de revisão:
 
-Tesouro Direto | Investido: R$3000,00 | Retorno: R$90,00 (Precisa de Revisão)
+| Investment Type    | Description     | Invested Amount | Return   | Review Status |
+|--------------------|-----------------|-----------------|----------|---------------|
+| Fixed Income       | Tesouro Direto  | R$3000.00       | R$90.00  | Needs Review |
+| Variable Income    | Criptomoeda XYZ | R$2000.00       | R$184.00 | Needs Review |
+
 
 
 
